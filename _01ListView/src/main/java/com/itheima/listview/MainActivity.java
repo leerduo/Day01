@@ -53,21 +53,18 @@ public class MainActivity extends Activity {
 			//System.out.println(data.size());
 			return data.size();
 		}
-		
-		//可选方法
+
 		@Override
-		public String getItem(int position) {
-			//System.out.println(data.get(position));
-			return data.get(position);
+		public Object getItem(int position) {
+			return null;
 		}
-		
-		//可选方法
+
 		@Override
 		public long getItemId(int position) {
-			//System.out.println(position);
-			return position;
+			return 0;
 		}
-		
+
+
 		//必选方法 listView的每一个条目的显示都是通过该方法返回的
 		@Override
 		public View getView(int position, View convertView, ViewGroup parent) {
@@ -80,7 +77,7 @@ public class MainActivity extends Activity {
 			}else{
 				tv = (TextView) convertView;
 			}
-			tv.setText(getItem(position));
+			tv.setText((String)getItem(position));
 			return tv;
 		}
 
