@@ -1,0 +1,18 @@
+#Internal package file, do not edit.
+#Fri Oct 14 21:09:14 CST 2016
+1.base=F\:\\AndroidCodeResource\\Day01\\_01ListView\\build\\intermediates\\res\\resources-debug.ap_
+4.file=F\:\\AndroidCodeResource\\Day01\\_01ListView\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
+1.file=F\:\\AndroidCodeResource\\Day01\\_01ListView\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+4.set=ANDROID_RESOURCE
+2.base=F\:\\AndroidCodeResource\\Day01\\_01ListView\\build\\intermediates\\res\\resources-debug.ap_
+3.set=ANDROID_RESOURCE
+2.set=ANDROID_RESOURCE
+2.file=F\:\\AndroidCodeResource\\Day01\\_01ListView\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+count=5
+1.set=ANDROID_RESOURCE
+3.base=F\:\\AndroidCodeResource\\Day01\\_01ListView\\build\\intermediates\\res\\resources-debug.ap_
+0.set=ANDROID_RESOURCE
+0.base=F\:\\AndroidCodeResource\\Day01\\_01ListView\\build\\intermediates\\res\\resources-debug.ap_
+3.file=F\:\\AndroidCodeResource\\Day01\\_01ListView\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\main.xml
+0.file=F\:\\AndroidCodeResource\\Day01\\_01ListView\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\ic_launcher.png
+4.base=F\:\\AndroidCodeResource\\Day01\\_01ListView\\build\\intermediates\\res\\resources-debug.ap_
